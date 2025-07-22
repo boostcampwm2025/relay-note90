@@ -93,5 +93,8 @@
 <img width="718" height="578" alt="image" src="https://github.com/user-attachments/assets/a34cd26a-b3d2-42fd-98a1-d0a6c74ee00f" />
 
 ### 화요일
+
+<img width="1109" height="722" alt="image" src="https://github.com/user-attachments/assets/9028d7f8-bb35-4de6-a811-a8c883aac931" />
+
 ### 수요일
 ### 목요일
