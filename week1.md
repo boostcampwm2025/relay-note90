@@ -114,8 +114,12 @@
 위 커밋 메세지를 적용한 커밋 링크: https://gist.github.com/AidenY915/d7a30aae76690fc04400acdb09dbfdd2/revisions#diff-d69fb21135dd7cfa6f9994fc2faf7efb81800f7ac0976605ea9bf788aee21677
 
 ### Day3
-<img width="1055" height="353" alt="스크린샷 2025-07-23 150008" src="https://github.com/user-attachments/assets/e00180d6-4c1a-48fd-8d0c-0c5034341e74" />
+<img width="500" alt="스크린샷 2025-07-23 150008" src="https://github.com/user-attachments/assets/e00180d6-4c1a-48fd-8d0c-0c5034341e74" />
 위 커밋 메세지를 적용한 커밋 링크:https://gist.github.com/AidenY915/f139f6b861118a9dd7ef8af63dd83798/revisions
+
+### Day4
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/108c04b5-89a8-428b-af41-7a2434ecc1ec" />
+
 
 
 ## J022_권용현 - 퀘스트 수행 결과
