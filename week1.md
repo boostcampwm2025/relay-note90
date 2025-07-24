@@ -116,3 +116,12 @@
 ### Day3
 <img width="1055" height="353" alt="스크린샷 2025-07-23 150008" src="https://github.com/user-attachments/assets/e00180d6-4c1a-48fd-8d0c-0c5034341e74" />
 위 커밋 메세지를 적용한 커밋 링크:https://gist.github.com/AidenY915/f139f6b861118a9dd7ef8af63dd83798/revisions
+
+
+## J022_권용현 - 퀘스트 수행 결과
+> Quest 2: 10분 복습! 나만의 AI 튜터에게 문제 출제받기
+<img width="751" height="206" alt="image" src="https://github.com/user-attachments/assets/416562f3-0da4-4479-8185-ff7775f90099" />
+<img width="608" height="339" alt="image" src="https://github.com/user-attachments/assets/189dc9f8-1c1c-4662-8b0c-085bb9552a60" />
+<img width="679" height="385" alt="image" src="https://github.com/user-attachments/assets/070840bf-6286-4118-ae85-0a2e6efb975a" />
+<img width="679" height="385" alt="image" src="https://github.com/user-attachments/assets/75171500-4648-4d19-a929-acc311908831" />
+
