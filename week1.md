@@ -100,8 +100,10 @@
 <img width="719" height="630" alt="image" src="https://github.com/user-attachments/assets/7ed03eb1-c91f-4f69-9707-c8a2ab29a354" />
 
 ### 목요일
+<img width="724" height="664" alt="image" src="https://github.com/user-attachments/assets/ccc940b4-75ea-40dc-9510-d8c990b1e0af" />
 
 
+---
 
 
 ## J171 윤종석
