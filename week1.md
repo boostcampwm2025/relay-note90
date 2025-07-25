@@ -112,15 +112,21 @@
 수행 방법: 커밋 직전, 개발한 내용을 GPT에게 설명하고, 이를 Udacity 스타일의 커밋 메세지를 만들어 달라고 했다.
 <br/>
 ### Day1
-<img width="500"  alt="스크린샷 2025-07-21 200448" src="https://github.com/user-attachments/assets/b7ba79f4-dc7f-4003-83a9-6d0aa60508bb" />
+<img width="500"  alt="스크린샷 2025-07-21 200448" src="https://github.com/user-attachments/assets/b7ba79f4-dc7f-4003-83a9-6d0aa60508bb" />  
+
 위 커밋 메세지를 적용한 커밋 링크: https://gist.github.com/AidenY915/d7a30aae76690fc04400acdb09dbfdd2/revisions#diff-d69fb21135dd7cfa6f9994fc2faf7efb81800f7ac0976605ea9bf788aee21677
 
 ### Day3
-<img width="500" alt="스크린샷 2025-07-23 150008" src="https://github.com/user-attachments/assets/e00180d6-4c1a-48fd-8d0c-0c5034341e74" />
+<img width="500" alt="스크린샷 2025-07-23 150008" src="https://github.com/user-attachments/assets/e00180d6-4c1a-48fd-8d0c-0c5034341e74" />  
+
 위 커밋 메세지를 적용한 커밋 링크:https://gist.github.com/AidenY915/f139f6b861118a9dd7ef8af63dd83798/revisions
 
 ### Day4
 <img width="500" alt="image" src="https://github.com/user-attachments/assets/108c04b5-89a8-428b-af41-7a2434ecc1ec" />
+
+### 소감
+이번 기회에 udacity 커밋 방식에 대해 알게되었다. 하지만 상세하게 적다보니, 모든 커밋에 적용하기는 어려울 것 같고, 중요 변동 사항에 대해서만 udacity 형식으로 작성하는 것이 좋을 것 같다.
+그 변경 내용도, 이전 커밋 파일 내용과 현재 파일을 같이 보내고 이에 대한 변동 사항을 작성해달라고 하면, 더 양질의 커밋 머세지를 얻을 수 있을 것 같다.
 
 
 
