@@ -137,3 +137,8 @@
 <img width="679" height="385" alt="image" src="https://github.com/user-attachments/assets/070840bf-6286-4118-ae85-0a2e6efb975a" />
 <img width="679" height="385" alt="image" src="https://github.com/user-attachments/assets/75171500-4648-4d19-a929-acc311908831" />
 
+## J287_허시영 - AI 칭찬 처방전 받기
+
+명령 프롬프트 : 부스트캠프에서 미션이 어려운데 위로나 칭찬을 받을 수 있을까? 매일 새벽에 다 완수하지 못하고 모든 원리를 파악하지 못하고 있어..
+
+<img width="959" height="673" alt="스크린샷 2025-07-25 오후 1 11 39" src="https://github.com/user-attachments/assets/30434339-24b8-4d1d-89eb-4e87437d8e8e" />
